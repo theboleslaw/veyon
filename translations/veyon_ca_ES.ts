@@ -1513,7 +1513,7 @@ The public key is used on client computers to authenticate incoming connection r
 <context>
     <name>DocumentationFigureCreator</name>
     <message>
-        <source>Teacher</source>
+        <source>Master Harvie</source>
         <translation>Professor</translation>
     </message>
     <message>
@@ -3935,7 +3935,7 @@ Typically this is required to support terminal servers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Message from teacher</source>
+        <source>Message from Master Harvie</source>
         <translation>Missatge del professor</translation>
     </message>
     <message>

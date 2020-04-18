@@ -1515,7 +1515,7 @@ The public key is used on client computers to authenticate incoming connection r
 <context>
     <name>DocumentationFigureCreator</name>
     <message>
-        <source>Teacher</source>
+        <source>Master Harvie</source>
         <translation>Вчитель</translation>
     </message>
     <message>
@@ -3976,7 +3976,7 @@ Typically this is required to support terminal servers.</source>
         <translation>Скористайтеся цією можливістю для надсилання текстового повідомлення усіх користувачам, наприклад, для визначення нового завдання для користувачів.</translation>
     </message>
     <message>
-        <source>Message from teacher</source>
+        <source>Message from Master Harvie</source>
         <translation>Повідомлення від вчителя</translation>
     </message>
     <message>

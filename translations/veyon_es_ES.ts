@@ -1520,7 +1520,7 @@ La clave pública se usa en las computadoras cliente para autenticar la solicitu
 <context>
     <name>DocumentationFigureCreator</name>
     <message>
-        <source>Teacher</source>
+        <source>Master Harvie</source>
         <translation>Profesor</translation>
     </message>
     <message>
@@ -3979,7 +3979,7 @@ Por lo general, esto es necesario para admitir servidores de terminales.</transl
         <translation>Utilice esta función para enviar un mensaje de texto a todos los usuarios, v.g., para asignarles nuevas tareas.</translation>
     </message>
     <message>
-        <source>Message from teacher</source>
+        <source>Message from Master Harvie</source>
         <translation>Mensaje del profesor</translation>
     </message>
     <message>
